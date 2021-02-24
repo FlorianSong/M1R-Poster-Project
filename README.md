@@ -1,3 +1,5 @@
+![Darwinian selection](/poster/Darwin-Hosler.png)
+
 # M1R-Poster-Project
 
 During summer term of 2014, I undertook an Individual Poster Project as part of my BSc in Mathematics. 
